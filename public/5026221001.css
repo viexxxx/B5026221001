@@ -1,0 +1,68 @@
+body{
+    background: linear-gradient(to top, #0d1b87,#42b7d1 );
+    text-align: center;
+    margin-top: 80px;
+    font-family: Inter, sans-serif;
+}
+
+.font{
+    font-style: 10px;
+}
+
+.left-button {
+    display: block;
+    background-color: transparent;
+    height: 40px;
+    width: 40px;
+}
+.right-button {
+    display: block;
+    background-color: transparent;
+    height: 40px;
+    width: 136px;
+    transform: translate(20px,0px);
+}
+.left-button:hover, .right-button:hover{
+    filter: brightness(75%)
+}
+.container {
+    width: 700px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.kotak {
+    color:white;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    width: 500px;
+    border: solid 1px;
+    border-radius: 30px;
+    text-align: center;
+    padding: 15px 80px;
+    text-decoration: none;
+    display: block;
+}
+
+.kotak:hover{
+    background-color: white;
+    color: blue;
+}
+
+.header{
+    color:white;
+}
+.header2{
+    color:white;
+    margin-bottom: 40px;
+}
+
+.headerimg{
+    width: 100px;
+    border-radius: 50%;
+}
+
+.footerimg{
+    text-align: center;
+    margin-top: 50px;
+}
