@@ -13,7 +13,7 @@
 
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
   <!-- Brand -->
-  <a class="navbar-brand" href="#">Logo</a>
+  <a class="navbar-brand" href="#">Viqi Alvianto - 5026221001</a>
 
   <!-- Links -->
   <ul class="navbar-nav">
