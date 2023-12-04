@@ -59,6 +59,7 @@ Route::get('showjam/{jam}', 'App\Http\Controllers\DosenController@showjam') ;
 Route::get('/formulir', 'App\Http\Controllers\DosenController@formulir');
 Route::post('/formulir/proses', 'App\Http\Controllers\DosenController@proses');
 
+
 //route CRUD
 Route::get('/blog', 'App\Http\Controllers\BlogController@home');
 Route::get('/blog/tentang', 'App\Http\Controllers\BlogController@tentang');

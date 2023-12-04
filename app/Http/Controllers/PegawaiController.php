@@ -53,6 +53,7 @@ class PegawaiController extends Controller
 
 	}
 
+
 	// update data pegawai
 	public function update(Request $request)
 	{
