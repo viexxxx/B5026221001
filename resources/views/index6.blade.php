@@ -3,11 +3,11 @@
 @section('title','Counter')
 
 @section('konten')
-<body>
+<table class="table table-striped table-hover">
     <h2>Anda telah membuka URL ini sebanyak {{ $Jumlah }} kali</h2>
 
     <br/>
     <br/>
-</body>
+</table>
 
 @endsection
