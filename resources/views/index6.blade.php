@@ -5,6 +5,9 @@
 @section('konten')
 <body>
     <h2>Anda telah membuka URL ini sebanyak {{ $Jumlah }} kali</h2>
+
+    <br/>
+    <br/>
 </body>
 
 @endsection
